@@ -1,0 +1,6 @@
+{
+  "name": "Utsav AI",
+  "description": "AI-powered event and wedding planner with smart timelines, vendor matchmaking, RSVP tracking, and Shubh AI replanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
